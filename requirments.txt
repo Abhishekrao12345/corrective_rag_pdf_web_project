@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-tavily
+langgraph
+pypdf
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+requests
+streamlit
